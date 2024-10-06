@@ -15,9 +15,9 @@ App using openai technology to generate images according to the description give
 - type the command *pip install -r requirements* in the terminal
 
 ### 2- OpenAI API KEY
-An openai API KEY is required to send requests to the OpenAi server and receive results.\n
-You can generate an API KEY [here](https://platform.openai.com/api-keys) with your account.
-Copy the API KEY and paste it into the '.env' file in the 'OPENAI_API_KEY' variable.
+An openai API KEY is required to send requests to the OpenAi server and receive results.  
+- You can generate an API KEY [here](https://platform.openai.com/api-keys) with your account.  
+- Copy the API KEY and paste it into the '.env' file in the 'OPENAI_API_KEY' variable.  
 
 **Email**
 camarayacouba91@gmail.com
