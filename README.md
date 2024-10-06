@@ -11,8 +11,8 @@ App using openai technology to generate images according to the description give
 |python-dotenv |     1.0.1     |
 
 **To install the modules:**
-1- navigate to the application folder
-2- type the command *pip install -r requirements* in the terminal
+- navigate to the application folder
+- type the command *pip install -r requirements* in the terminal
 
 ### 2- OpenAI API KEY
 An openai API KEY is required to send requests to the OpenAi server and receive results.
